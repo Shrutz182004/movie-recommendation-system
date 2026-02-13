@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual env
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# secrets
+.env
+
+# model files (IMPORTANT)
+*.pkl
+*.pickle
+
+# system
+.DS_Store
